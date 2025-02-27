@@ -1,2 +1,2 @@
 # HangmanGame
- 
+ Funny Hangman Game 
